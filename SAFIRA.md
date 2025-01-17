@@ -76,5 +76,5 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
     *   If any of the abilities on the character card match an ability on the encounter card, that character can manipulate the result of their roll by 1 (either adding or subtracting 1 from their rolled value).
     *   If you have won an encounter card in a previous turn, you may use (exhaust, consume) the effect on that encounter card to adjust your roll value. If you do it, exhaust this encounter card (flip it face down).
 8.  **Resolve the encounter:** ➤ If the character manages to resolve the EDC, that character has won the encounter. If no character in the party manages to resolve the EDC, Safira receives that card (move the card to her Hideout).
-9.  Repeat steps 6 and 7 with all other players except the DM. Then, finally, the player that was the DM for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
+9.  Repeat steps 6-8 with all other players except the DM. Then, finally, the player that was the DM for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
 10. **In case of TIE:** (i.e., two or more characters have also managed to resolve the EDC), those players need to roll again simultaneously, and whoever receives a greater number wins.
