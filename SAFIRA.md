@@ -37,13 +37,13 @@ If so, carry a fragment of your triumph into a fresh adventure, weaving a contin
 But if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
-Generative Storytelling: No two games are ever the same. (Like really, it's not possible!)
+**Generative Storytelling:** No two games are ever the same. (Like really, it's not possible!)
 
-You are the GM: Your choices shape the narrative and Safira herself. (You tell the story as you see fit!)
+**You are the GM:** Your choices shape the narrative and Safira herself. (You tell the story as you see fit!)
 
-Collaborative Experience: Work with your party to craft a unique and unforgettable story. (Individual stories chain!)
+**Collaborative Experience:** Work with your party to craft a unique and unforgettable story. (Individual stories chain!)
 
-High Replay Value: Start fresh adventures with the same or new characters. (If you want!)
+**High Replay Value:** Start fresh adventures with the same or new characters. (If you want!)
 
 ---
 
