@@ -8,15 +8,15 @@
 
 ---
 
-**GEOGRAPHY:**
 
-The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique foundations. Damatia’s success comes from a strong work ethic and the uniqueness of its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so (properly).") To achieve this, citizens are encouraged to devote themselves to three pillars of Damatian stability: Charotek innovation, economy/trade, or military. Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons called “Charomons,” or as the people simply call them: "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek use and experimentations abounding by the day on its busy streets and markets.
+**GEOGRAPHY:**
+The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia’s success comes from a strong work ethic and the uniqueness of its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so (properly).") To achieve this, citizens are encouraged to devote themselves to three pillars of Damatian stability: innovation, economy, or military. Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons called “Charomons,” or as the people simply call them: "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 
 ---
 
 **YOUR MISSION:**
 
-The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has been placed under custody but has since escaped, and her current whereabouts and intentions are unknown. Available evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards to those who fulfill the mission.
+The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts and intentions are unknown. Available evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards to those who fulfill the mission.
 
 ---
 
@@ -30,36 +30,25 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 ---
 
-**SETUP:**
 
-### Components
-
-*   30 Adventure cards
-*   5 Minor Boss cards
-*   10 Character cards
-*   Safira’s hideout card
-*   1 twenty-sided die (d20)
-
-### Game Structure
-
-*   Play 6 rounds
-*   4 encounters per round
-*   Maximum of 24 encounters per game
 
 ---
 
 **SHORT GAMEPLAY GUIDE:**
 
-1.  Pick characters.
+1.  Choose and introduce your characters
+    Who are you and why did you answer the King's call?
+    Who is Safira , and what does she wants to do?
+    
 2.  Shuffle deck and place 4 cards in a row.
-3.  The DM draws an encounter card, sets the scene, and rolls DC.
+3.  The DM draws an encounter card, narrates the scene, and rolls DC.
 4.  Players narrate and roll to resolve the encounter.
-5.  Check any character abilities and encounter bonuses to apply them.
-6.  Resolve encounter.
-7.  If no player resolves the encounter, move it to Safira’s hideout.
-8.  Repeat!
-9.  Encounter Safira: After round 6 or if you narrate through all the encounter cards.
-10.  Safira's hideout:
+    (Check any character abilities and encounter bonuses to apply them!)
+5.  Resolve encounter.
+6.  If no player resolves the encounter, move it to Safira’s hideout.
+7.  Repeat!
+8.  Encounter Safira: After round 6 or if you narrate through all the encounter cards.
+9.  Safira's hideout:
         Safira's encounters are shuffled and placed, row above row, of four cards, from left to right.
         Safira's encounters are challenged from right to left, column by column (max 4 columns, and X rows).
         Each encounter column is opened as a single encounter, by the DM who rolls a single DC for that entire column.
@@ -70,11 +59,11 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
         I.e. 2 players, 1 column. 3 players, 2 columns. 
 
 ---
-PARTY PHASE
+**LONG GAMEPLAY GUIDE**
+
+**PARTY PHASE**
 Reveal your characters
-Who is Safira, Why did she escape, What does she want to do?
-
-
+Each character answers: Who is Safira for you? Why did she escape? What do you think she wants to do? 
 
 **ADVENTURE PHASE:**
 
@@ -93,7 +82,7 @@ Who is Safira, Why did she escape, What does she want to do?
 9.  Repeat steps 6-8 with all other players except the DM. Then, finally, the player that was the DM for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
 10. **In case of TIE:** (i.e., two or more characters have also managed to resolve the EDC), those players need to roll again simultaneously, and whoever receives a greater number wins.
     
-11. SAFIRA'S PHASE:
+**SAFIRA'S PHASE:**
 
 Setup: 
 Shuffle Safira's encounter cards (encounters Safira won through the game). 
@@ -104,20 +93,17 @@ Safira's encounters are challenged from right to left, column by column. There c
 
 Resolution order:
 Each column is treated as a single, combined encounter.
-The DM opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) but now for this entire column 
+The DM opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) for this entire column 
 (i.e. all encounters in that column will now have the same EDC)
 
 Players will now attempt to resolve individual cards within the current column using the standard game mechanics
 
-A)The next player in turn order chooses what encounter they will engage 
-B) Narrate their actions
-C) Roll 1d20, applying bonuses, and checking against the EDC range.
+A)The next player in turn order chooses what encounter will they engage 
+B) Narrates their actions
+C) Rolls 1d20, applies bonuses, and checks against the EDC range.
+        (As usual other players may assist with their bonuses)
 D)If the encounter is resolved it is fliced face down, if it is not, it remains face up. 
-E)The next player engages an encounter in that same column. 
+E)The next player engages an encounter in that same column until 
 
+..............
 
-
-Resolving a Column: To successfully resolve an entire column, players must resolve a specific number of cards within that column: one less than the total number of cards in the column (X - 1).
-Example: A column with three cards requires two successful player rolls to be resolved. A column with four cards requires three successful player rolls.
-Resolving the Entire Boss Encounter: To defeat the Boss in this encounter, players must resolve a specific number of columns: one less than the number of players (X - 1).
-Example: With two players, only one column needs to be resolved. With three players, two columns need to be resolved. With four players, three columns need to be resolved.
