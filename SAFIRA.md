@@ -29,7 +29,6 @@ Will she become a heroic ally or a formidable foe? A trusted friend or a cunning
 And how will your characters interact with her, and with each other? 
 You decide!
 
-
 **A Continuously Evolving Narrative:**
 The story doesn't end with a single victory or defeat. 
 After facing Safira in her hideout and resolving all her encounters, each player concludes their character's personal story arc. 
@@ -39,21 +38,20 @@ But if Safira manages to evade your grasp and realize her own intentions, a new 
 
 **Key Features:**
 Generative Storytelling: No two games are ever the same. (Like really, it's not possible!)
+
 You are the GM: Your choices shape the narrative and Safira herself. (You tell the story as you see fit!)
+
 Collaborative Experience: Work with your party to craft a unique and unforgettable story. (Individual stories chain!)
+
 High Replay Value: Start fresh adventures with the same or new characters. (If you want!)
 
-
 ---
-
 
 **GEOGRAPHY:**
 The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia’s success comes from a strong work ethic and the uniqueness of its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so (properly).") To achieve this, citizens are encouraged to devote themselves to three pillars of Damatian stability: innovation, economy, or military. Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons called “Charomons,” or as the people simply call them: "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 
 ---
-
 **YOUR MISSION:**
-
 The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts and intentions are unknown. Available evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards to those who fulfill the mission.
 
 ---
@@ -67,8 +65,6 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
 
 ---
-
-
 
 ---
 
