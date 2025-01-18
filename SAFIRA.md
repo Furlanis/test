@@ -58,11 +58,25 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 6.  Resolve encounter.
 7.  If no player resolves the encounter, move it to Safira’s hideout.
 8.  Repeat!
-9.  Challenge Safira in her hideout: After round 6 or if you narrate through all the encounter cards.
+9.  Encounter Safira: After round 6 or if you narrate through all the encounter cards.
+10.  Safira's hideout:
+        Safira's encounters are shuffled and placed, row above row, of four cards, from left to right.
+        Safira's encounters are challenged from right to left, column by column (max 4 columns, and X rows).
+        Each encounter column is opened as a single encounter, by the DM who rolls a single DC for that entire column.
+        Players try to resolve individual encounters in that column, as per usual mechanic (EDC).
+        To resolve an encounter column, players need to resolve an X-1 number of encounters in that column.
+        I.e. In a column of 3 encounters, players need to resolve 2 encounters. In a column of four, three...
+        To resolve the entire Safira encounter players need to resolve X-1 number of columns
+        I.e. 2 players, 1 column. 3 players, 2 columns. 
 
 ---
+PARTY PHASE
+Reveal your characters
+Who is Safira, Why did she escape, What does she want to do?
 
-**CORE TURN SEQUENCE:**
+
+
+**ADVENTURE PHASE:**
 
 1.  **Place four encounter cards in a row:** ➤ This is your turn.
 2.  **The 1st player reveals the first card (left or right):** ➤ This player is the DM for this encounter!
@@ -78,3 +92,32 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 8.  **Resolve the encounter:** ➤ If the character manages to resolve the EDC, that character has won the encounter. If no character in the party manages to resolve the EDC, Safira receives that card (move the card to her Hideout).
 9.  Repeat steps 6-8 with all other players except the DM. Then, finally, the player that was the DM for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
 10. **In case of TIE:** (i.e., two or more characters have also managed to resolve the EDC), those players need to roll again simultaneously, and whoever receives a greater number wins.
+    
+11. SAFIRA'S PHASE:
+
+Setup: 
+Shuffle Safira's encounter cards (encounters Safira won through the game). 
+Arrange them face up in rows of four, from left to right. This usually creates columns of varying heights.
+
+Challenge Order: 
+Safira's encounters are challenged from right to left, column by column. There can be up to four columns.
+
+Resolution order:
+Each column is treated as a single, combined encounter.
+The DM opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) but now for this entire column 
+(i.e. all encounters in that column will now have the same EDC)
+
+Players will now attempt to resolve individual cards within the current column using the standard game mechanics
+
+A)The next player in turn order chooses what encounter they will engage 
+B) Narrate their actions
+C) Roll 1d20, applying bonuses, and checking against the EDC range.
+D)If the encounter is resolved it is fliced face down, if it is not, it remains face up. 
+E)The next player engages an encounter in that same column. 
+
+
+
+Resolving a Column: To successfully resolve an entire column, players must resolve a specific number of cards within that column: one less than the total number of cards in the column (X - 1).
+Example: A column with three cards requires two successful player rolls to be resolved. A column with four cards requires three successful player rolls.
+Resolving the Entire Boss Encounter: To defeat the Boss in this encounter, players must resolve a specific number of columns: one less than the number of players (X - 1).
+Example: With two players, only one column needs to be resolved. With three players, two columns need to be resolved. With four players, three columns need to be resolved.
