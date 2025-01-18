@@ -4,7 +4,37 @@
 
 *A cooperative adventure card game*
 
-*For 2-5 players • Ages 7+ • 45-120 minutes*
+*For 2-5 players • Ages 7+ • 90-180 minutes*
+
+Tired of pre-written narratives? In this unique game, YOU and your party are the storytellers. Every game is a fresh adventure, driven by your choices and imagination.
+
+Unleash Your Creativity:
+The story begins with a mystery: Who is Safira, and what drove her escape? The answers unfold as you play, shaped by your collective narrative.
+
+Dynamic Encounters, Player-Driven Outcomes: 
+Every encounter builds the world you engage.
+Safira's very nature changes based on the story you create. Her personality, her goals, her role in the world—it's all in your hands.
+Will she be a hero or a villain? A friend or foe? 
+And how will your character and your party relate to her? 
+You decide as your choices determine the outcome of each encounter, narrated from either your perspective or Safira's.
+
+An evolving continous story: 
+After facing all of Safira's challenges, each player concludes their character's personal story arc. 
+Did you thwart Sabira's plans and achieve your goals? 
+If so, carry a piece of your triumph into a brand new adventure! 
+But if Safira prevails, a fresh start awaits, offering endless possibilities.
+
+Key Features:
+
+Generative Storytelling: No two games are ever the same.
+Player Agency: Your choices matter, shaping the narrative and Sabira herself.
+Collaborative Experience: Work with your party to craft a unique and unforgettable story.
+High Replay Value: Start fresh adventures with new characters and storylines.
+Dive into a world of limitless possibilities. Your adventure awaits!
+
+*Unique game approach: The essence of this game is generative, unconstrained, storytelling. All game resources are here at your disposal to enable you, as the individual player, and your collective party to tell your own story. What will this adventure of yours be all about? Who are your characters and what are their intentions? Who is Safira actually and what is the secret behind her escape? These questions are set in the beginning of your play, and unroll, unravel and unfold as you play according to your own narrative choices! Finally, when you encounter Safira in her hideout, who and what will she be? It depends on the story you have constructed as a party until this moment. Is she a hero or a villain? A traitor or a ... Is she mean or gentle? Mysterious or Bland? With these story constructs you will engage Safira's encounters in trying to resolve them succesfully and finish the story as your character sees fit. And if you fail to resolve the encounters, you will narrate how Safira managed to best your intentions with her and accomplish her own! Thus, with each encounter you engage you will construct the ending of a story chapter either from your own or Safira's character perspective. Finally, once all of Safira's encounters have been engaged, each player will conclude their own character's story arc. And dependent on your story's conclusion, you may start a new, fresh, adventure. If the party managed to best Safira's intentions, and realize their own, then each player may keep a single encounter card and start the game anew! But if Safira managed to realize her own intentions then the party starts a new game without any kept encounters. 
+
+*Difficulty note: The game is optimally played with 3 and 4 players in a party. 2 players will have the most difficult time to shape the final story according to their party's intentions rather than Safira's , while a party of 5 will have the greatest capacity to shape Safira's destiny. Keep this in mind when deciding your optimal story telling adventure! 
 
 ---
 
