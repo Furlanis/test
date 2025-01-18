@@ -9,7 +9,7 @@
 **Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
 Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
 
-**The Dance of Storytellers: Me, my party and Safira:**
+**The Dance of Storytellers**
 This game is not about winning or losing! 
 Rather, who will manage to be the conclusive storyteller? 
 Will it be me and my party or will it be Safira?
