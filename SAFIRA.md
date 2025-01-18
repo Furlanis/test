@@ -6,35 +6,44 @@
 
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
-Tired of pre-written narratives? In this unique game, YOU and your party are the storytellers. Every game is a fresh adventure, driven by your choices and imagination.
-**Unleash Your Creativity:**
-The story begins with a mystery: Who is Safira, and what drove her escape? The answers unfold as you play, shaped by your collective narrative.
+**Unleash Your Imagination:
+Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
+Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
+
+**The Dance of Storytellers: Me, my party and Safira:**
+This game is not about winning or losing! 
+Rather, who will manage to be the conclusive storyteller? 
+Will it be me and my party or will it be Safira?
+The answers aren't pre-written; they emerge organically as you play.
+As each encounter's outcome is narrated from either your perspective or Safira's, ensuring a dynamic and engaging experience.
+
+**The size of your group influences the narrative balance.** 
+Smaller parties offer Safira a greater opportunity to shape events according to her will. 
+Larger parties have more influence over the unfolding story. 
+Consider this dynamic when forming your adventuring group for the optimal storytelling experience!
+
 **Dynamic Encounters, Player-Driven Outcomes:** 
 Every encounter builds the world around you. 
-Safira's very nature changes based on the story you create. Her personality, her goals, her role in the world.
-Will she be a hero or a villain? A friend or foe? 
-And how will your character and your party relate to her? 
+Safira's very nature changes based on the story you create. 
+Her personality, her goals, her role in the world.
+Will she become a heroic ally or a formidable foe? A trusted friend or a cunning adversary?
+And how will your characters interact with her, and with each other? 
 You decide!
-Your choices that determine the outcome of each encounter, narrated from either your perspective or Safira's.
-**An evolving continuous story:**
-After facing Safira in her hideout, and resolving all of her encounters, each player concludes their character's personal story arc. 
-Did you thwart Safira's plans and achieve your goals? 
-If so, carry a piece of your triumph into a brand new adventure! 
-But if Safira prevails, a fresh start awaits, as Safira eludes your plans!
+
+
+**A Continuously Evolving Narrative:**
+The story doesn't end with a single victory or defeat. 
+After facing Safira in her hideout and resolving all her encounters, each player concludes their character's personal story arc. 
+Did you successfully thwart Safira's plans and achieve your own ambitions? 
+If so, carry a fragment of your triumph into a fresh adventure, weaving a continuous tapestry of interconnected encounters! 
+But if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
 Generative Storytelling: No two games are ever the same. (Like really, it's not possible!)
-You are the GM: Your choices shape the narrative and Sabira herself. (You tell the story as you see fit!)
-Collaborative Experience: Work with your party to craft a unique and unforgettable story. (Your stories chain!)
+You are the GM: Your choices shape the narrative and Safira herself. (You tell the story as you see fit!)
+Collaborative Experience: Work with your party to craft a unique and unforgettable story. (Individual stories chain!)
 High Replay Value: Start fresh adventures with the same or new characters. (If you want!)
 
-**Me, my party and Safira:**
-This game is not about winning or losing! 
-Instead, think of it like this: Who will manage to be the real storyteller? Will it be me and my party or will it be Safira? 
-As such, dependent on the size of your party you will experience lesser or greater success in shaping the world according to your own and your party's intentions. 
-The lesser the party, the greater chances will Safira have to accomplish her will in the world. 
-And vice versa! 
-Keep this in mind when deciding your optimal story telling adventure! 
 
 ---
 
