@@ -7,35 +7,33 @@
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
 Tired of pre-written narratives? In this unique game, YOU and your party are the storytellers. Every game is a fresh adventure, driven by your choices and imagination.
-
-Unleash Your Creativity:
+**Unleash Your Creativity:**
 The story begins with a mystery: Who is Safira, and what drove her escape? The answers unfold as you play, shaped by your collective narrative.
-
-Dynamic Encounters, Player-Driven Outcomes: 
+**Dynamic Encounters, Player-Driven Outcomes:** 
 Every encounter builds the world around you. 
 Safira's very nature changes based on the story you create. Her personality, her goals, her role in the world.
 Will she be a hero or a villain? A friend or foe? 
 And how will your character and your party relate to her? 
 You decide!
 Your choices that determine the outcome of each encounter, narrated from either your perspective or Safira's.
-
-An evolving continous story: 
+**An evolving continuous story:**
 After facing Safira in her hideout, and resolving all of her encounters, each player concludes their character's personal story arc. 
-Did you thwart Sabira's plans and achieve your goals? 
+Did you thwart Safira's plans and achieve your goals? 
 If so, carry a piece of your triumph into a brand new adventure! 
 But if Safira prevails, a fresh start awaits, as Safira eludes your plans!
 
-Key Features:
+**Key Features:**
+Generative Storytelling: No two games are ever the same. (Like really, it's not possible!)
+You are the GM: Your choices shape the narrative and Sabira herself. (You tell the story as you see fit!)
+Collaborative Experience: Work with your party to craft a unique and unforgettable story. (Your stories chain!)
+High Replay Value: Start fresh adventures with the same or new characters. (If you want!)
 
-Generative Storytelling: No two games are ever the same.
-You are the GM: Your choices shape the narrative and Sabira herself.
-Collaborative Experience: Work with your party to craft a unique and unforgettable story.
-High Replay Value: Start fresh adventures with the same or new characters.
-
-
-*Difficulty note: The game is optimally played with 3 and 4 players in a party. 
-2 players will have the most difficult time to shape the final story according to their party's intentions
-A party of 5 will have the greatest capacity to shape Safira's destiny. 
+**Me, my party and Safira:**
+This game is not about winning or losing! 
+Instead, think of it like this: Who will manage to be the real storyteller? Will it be me and my party or will it be Safira? 
+As such, dependent on the size of your party you will experience lesser or greater success in shaping the world according to your own and your party's intentions. 
+The lesser the party, the greater chances will Safira have to accomplish her will in the world. 
+And vice versa! 
 Keep this in mind when deciding your optimal story telling adventure! 
 
 ---
