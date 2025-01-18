@@ -6,8 +6,7 @@
 
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
-**Unleash Your Imagination:
-Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
+**Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
 Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
 
 **The Dance of Storytellers: Me, my party and Safira:**
