@@ -12,9 +12,8 @@ Every playthrough is a brand-new adventure, born from your collective imaginatio
 **The Dance of Storytellers**
 This game is not about winning or losing! 
 Rather, who will manage to be the conclusive storyteller? 
-Will it be me and my party or will it be Safira?
-The answers aren't pre-written; they emerge organically as you play.
-As each encounter's outcome is narrated from either your perspective or Safira's, ensuring a dynamic and engaging experience.
+Will it be your party of characters or will it be Safira?
+The answers aren't pre-written; they emerge organically as you narrate through the encounters. 
 
 **The size of your group influences the narrative balance.** 
 Smaller parties offer Safira a greater opportunity to shape events according to her will. 
@@ -31,10 +30,10 @@ You decide!
 
 **A Continuously Evolving Narrative:**
 The story doesn't end with a single victory or defeat. 
-After facing Safira in her hideout and resolving all her encounters, each player concludes their character's personal story arc. 
+After facing Safira in her hideout, each player concludes their character's personal story arc. 
 Did you successfully thwart Safira's plans and achieve your own ambitions? 
-If so, carry a fragment of your triumph into a fresh adventure, weaving a continuous tapestry of interconnected encounters! 
-But if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
+If so, carry a fragment of your triumph into a fresh adventure. 
+And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
 **Generative Storytelling:** No two games are ever the same. (Like really, it's not possible!)
@@ -83,6 +82,7 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 7.  Repeat!
 8.  Encounter Safira: After round 6 or if you narrate through all the encounter cards.
 9.  Safira's hideout:
+10.  UPDATE THIS BELOW
         Safira's encounters are shuffled and placed, row above row, of four cards, from left to right.
         Safira's encounters are challenged from right to left, column by column (max 4 columns, and X rows).
         Each encounter column is opened as a single encounter, by the DM who rolls a single DC for that entire column.
