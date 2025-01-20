@@ -8,6 +8,9 @@
 
 **Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
 Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
+<div style="float: left; margin-right: 20px; text-align: justify;">
+  <img src="[https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82](https://github.com/user-attachments/assets/42e823c0-bd58-4956-a2e2-2c66e9b17f11)" width="350" height="450" alt="Criminal">
+</div>
 
 **The Dance of Storytellers**
 This game is not about winning or losing! 
@@ -36,6 +39,9 @@ If so, carry a fraStorytellerent of your triumph into a fresh adventure.
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
+
+![20241211_114208](https://github.com/user-attachments/assets/3896a2c2-2e99-478e-84b8-0acba5eb53c7)
+
 **Generative Storytelling:** No two games are ever the same. (Like really, it's not possible!)
 
 **You are the STORYTELLER:** Your choices shape the narrative and Safira herself. (You tell the story as you see fit!)
@@ -68,6 +74,8 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
 
 ---
+
+![viber_image_2025-01-03_09-27-51-374](https://github.com/user-attachments/assets/363fc3c1-3522-47cd-95fa-b16c3790fcbf)
 
 ---
 
