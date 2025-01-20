@@ -142,10 +142,16 @@ The STORYTELLER opens all cards in a column, narrates the story connecting these
 
 A)The next player in turn order chooses what encounter to engage 
 B) Narrates their actions
+
 C) Rolls 1d20, applies bonuses, and checks against the EDC range.
         (As usual other players may assist with their bonuses)
-D)If the encounter is resolved it is fliced face down, if it is not, it remains face up. 
-E)Players take turns facing encounters within the same column. Each player attempts one encounter. If successful, the encounter is resolved (flipped face down). If all players fail an encounter in a column, or if all encounters in a column are resolved, the party advances to the next column to the left. Every player must act as the "Dungeon Master" (STORYTELLER) for at least one full column of encounters.
+        
+D)If the encounter is resolved it is fliced face down, if it is not, it remains face up.
+
+E)Players take turns facing encounters within the same column. Each player attempts one encounter. If successful, the encounter is resolved (flipped face down). 
+If all players fail an encounter in a column, or if all encounters in a column are resolved, the party advances to the next column to the left. 
+
+Every player must act as the "Dungeon Master" (STORYTELLER) for at least one full column of encounters.
   
 
 
