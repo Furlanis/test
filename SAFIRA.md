@@ -39,8 +39,10 @@ If so, carry a fraStorytellerent of your triumph into a fresh adventure.
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
+<div style="float: left; margin-right: 20px; text-align: justify;">
+  <img src="[[https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82]](https://github.com/user-attachments/assets/42e823c0-bd58-4956-a2e2-2c66e9b17f11)" width="350" height="450" alt="Criminal">
+</div>
 
-![20241211_114208](https://github.com/user-attachments/assets/3896a2c2-2e99-478e-84b8-0acba5eb53c7)
 
 **Generative Storytelling:** No two games are ever the same. (Like really, it's not possible!)
 
@@ -51,6 +53,7 @@ And if Safira manages to evade your grasp and realize her own intentions, a new 
 **High Replay Value:** Start fresh adventures with the same or new characters. (If you want!)
 
 ---
+
 <div style="float: left; margin-right: 20px; text-align: justify;">
   <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
@@ -74,8 +77,9 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
 
 ---
-
-![viber_image_2025-01-03_09-27-51-374](https://github.com/user-attachments/assets/363fc3c1-3522-47cd-95fa-b16c3790fcbf)
+<div style="float: left; margin-right: 20px; text-align: justify;">
+  <img src="https://github.com/user-attachments/assets/363fc3c1-3522-47cd-95fa-b16c3790fcbf" width="350" height="450" alt="Demacija_castle_za_discord">
+</div>
 
 ---
 
@@ -107,6 +111,7 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
         (I.e. 2 players - 1 column. 3 players - 2 columns.) 
 
 ---
+
 **LONG GAMEPLAY GUIDE**
 
 **PARTY PHASE**
@@ -135,7 +140,11 @@ Each character answers: Who is Safira for you? Why did she escape? What do you t
 11. **When encountering a Safira Loyalist**, if no character in the party wins the Safira Loyalist encounter, the Loyalist moves to Safira's hideout. (I.e. Safira won her Loyalist).
     If the loyalist moves to Safira's hideout: Raise the DC for all upcoming adventure phase encounters with a +1.
     If a player wins the Safira Loyalist encounter, that player receives the Loyalist card. (I.e. The loyalist joins that character and the party). 
-    
+
+<div style="float: left; margin-right: 20px; text-align: justify;">
+  <img src="https://github.com/user-attachments/assets/dfa509e4-206f-497e-b9de-b23e3150583a" width="350" height="450" alt="Demacija_castle_za_discord">
+</div>
+
 **SAFIRA'S PHASE:**
 
 **Setup:** 
