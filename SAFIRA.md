@@ -55,7 +55,7 @@ The city-state of Damatia is the strongest political kingdom on the Balkania con
 ***
 
 **YOUR MISSION:**
-The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards to those who fulfill the mission.
+The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards.
 
 ---
 
