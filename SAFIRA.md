@@ -46,7 +46,7 @@ And if Safira manages to evade your grasp and realize her own intentions, a new 
 
 ---
 <div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="400" height="550" alt="Demacija_castle_za_discord">
+  <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
 
 **GEOGRAPHY:** 
