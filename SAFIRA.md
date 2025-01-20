@@ -45,12 +45,12 @@ And if Safira manages to evade your grasp and realize her own intentions, a new 
 **High Replay Value:** Start fresh adventures with the same or new characters. (If you want!)
 
 ---
-
-**GEOGRAPHY:** 
-The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and the uniqueness of its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so (properly).") Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons called "Charomons," or as the people simply call them: "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 <div style="float: left; margin-right: 20px; text-align: justify;">
   <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="400" height="550" alt="Demacija_castle_za_discord">
 </div>
+
+**GEOGRAPHY:** 
+The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and the uniqueness of its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so (properly).") Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons called "Charomons," or as the people simply call them: "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 
 ***
 
