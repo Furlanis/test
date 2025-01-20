@@ -118,27 +118,27 @@ Each character answers: Who is Safira for you? Why did she escape? What do you t
     *   Players can only use one encounter card per player per turn. (I.e. in a party of 3, three players can use their encounters to boost a single player's roll, for that single encounter).
 9.  **Resolve the encounter:** ➤ If the character manages to resolve the EDC, that character has won the encounter and that character concludes the story for that encounter. If no character in the party manages to resolve the EDC, Safira receives that card (move the card to her Hideout) and the last player to play (the STORYTELLER), concludes the story accordingly.
     **In case of TIE:** (i.e., two or more characters have also managed to resolve the EDC), those players need to roll again simultaneously, and whoever receives a greater number wins. 
-10.  Repeat steps 6-8 with all other players except the STORYTELLER. Then, finally, the player that was the STORYTELLER for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
+10.  **Repeat steps 6-9** with all other players except the STORYTELLER. Then, finally, the player that was the STORYTELLER for this encounter plays the encounter as their character (by repeating steps 6 and 7 as all other players).
 
-11. When encountering a Safira Loyalist, if no character in the party wins the Safira Loyalist encounter, the Loyalist moves to Safira's hideout. (I.e. Safira won her Loyalist).
+11. **When encountering a Safira Loyalist**, if no character in the party wins the Safira Loyalist encounter, the Loyalist moves to Safira's hideout. (I.e. Safira won her Loyalist).
     If the loyalist moves to Safira's hideout: Raise the DC for all upcoming adventure phase encounters with a +1.
     If a player wins the Safira Loyalist encounter, that player receives the Loyalist card. (I.e. The loyalist joins that character and the party). 
     
 **SAFIRA'S PHASE:**
 
-Setup: 
+**Setup:** 
 Shuffle Safira's encounter cards (encounters Safira won through the game). 
 Arrange them face up in rows of four, from right to left. This usually creates columns of varying heights with highest columns being on the right.
 
-Challenge Order: 
+**Challenge Order:** 
 Safira's encounters are challenged from right to left, column by column. There can be up to four columns.
 
-Resolution order:
+**Resolution order:**
 Each column is treated as a single, combined encounter.
 The STORYTELLER opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) for this entire column 
 (i.e. all encounters in that column will now have the same EDC)
 
-Players will attempt to resolve individual cards within the current column using the standard game mechanics
+**Players will attempt to resolve individual cards within the current column using the standard game mechanics**
 
 A)The next player in turn order chooses what encounter to engage 
 B) Narrates their actions
