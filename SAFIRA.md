@@ -122,7 +122,8 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 ### 4️⃣ **Players’ Turn**  
    - 🗣️ *Narrate action* → 🎲 *Roll to resolve*  
-     *(Check abilities & bonuses! ⚡)*  
+     *(Check abilities & apply bonuses, one per player, per encounter! ⚡)*
+     
 
 ### 5️⃣ **Resolve Encounter**  
    - 🏆 *Player success?* → Take the encounter!*  
@@ -142,14 +143,28 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 🃏 **Setup:**  
    - 🔀 *Shuffle her encounters* → 📥 **Place 4 cards/row**, *right to left, bottom up*.  
 
-🎯 **Challenge Columns:**  
+🎯 **Challenge the Story Columns:**  
    - ➡️ *Right-to-left*, column-by-column *(max 4 columns, X rows)*.  
-   - 🎲 **STORYTELLER rolls 1 DC per column**.  
-   - 🛡️ **Players resolve individual encounters** *(same mechanics)*.  
+   - 🎲 **STORYTELLER rolls 1 DC per story column, establishes EDC**
+   - 
+   - 🛡️ **Players engage individual encounters from bottom up** in this order
+   - All players roll their DC for the first bottom encounter simoultaneously.
+   - Apply bonuses (one per player per encounter).
+   - The player who resolves the encounter concludes the story for that encounter. Keep the encounter face up. 
+   - If no player resolves the encounter, players freely and shortly narrate their failure. Flip the encounter face down. 
+   - Move one encounter up.
+   - Once all encounters in a story column are engaged, the next player in the party opens the next story column.
+   - Repeat!
 
 🏁 **Win Condition:**  
-   - ✅ *Resolve all encounters in a column* → ✔️ **Column cleared!**  
-   - 🎉 *Defeat Safira by resolving **X-1 columns***.  
+   - ✅  For columns of 1 -4 encounters → *Resolve all encounters in a column → ✔️ **Column cleared!**
+   - ✅  For columns of 5 -7 encounters → *Resolve all encounters in a column -1 * → ✔️ **Column cleared!**
+   -   
+   - 🎉 *To best Safira's intentions and conclude the story in their favor:*
+   - a party of 2 needs to clear minimally two story columns.
+   - a party of 3 needs to clear minimally three story columns.
+   - a party of 4 needs to clear all four story columns.
+   - a party of 5 needs to clear all four story columns.
 
 ---
 **LONG GAMEPLAY GUIDE**
