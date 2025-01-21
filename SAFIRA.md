@@ -31,23 +31,23 @@ Your story. Your way. Every time.
 💥 **Face Safira!**  
 *How will your adventure **end?***  
 *And what comes **next?***  
-*If you wish…* 🔄 ***The story continues!***  
+*If you wish…* ***The story continues!***  
 
 ---
 
 **Key Features:**
 
-🌟 **Generative Storytelling:**  
-🌌 No two games are *ever* the same. *(Seriously—it’s **impossible!**)* 🎲🔄  
+🎲 **Generative Storytelling:**  
+No two games are *ever* the same. *(Seriously—it’s **impossible!**)* 
 
 🖋️ **You are the STORYTELLER:**  
-👑 Your choices shape **the narrative** *and* **Safira herself.** *(Write it **your way!**)* 🌀✨  
+Your choices shape **the narrative** *and* **Safira herself.** *(Write it **your way!**)* 
 
 🤝 **Collaborative Experience:**  
-🧩 Work with your party to craft a **wildly unique story.** *(Individual tales **chain together!**)* 🌟  
+ Work with your party to craft a **wildly unique story.** *(Individual tales **chain together!**)* 
 
-🔄 **High Replay Value:**  
-🌱 Start fresh adventures with the **same crew** or **new heroes.** *(If you dare…!)* 🎭⚡  
+⚡**High Replay Value:**  
+Start fresh adventures with the **same crew** or **new heroes.** *(If you dare…!)*   
 
 ---
 
@@ -83,30 +83,47 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 **SHORT GAMEPLAY GUIDE:**
 
-1.  Choose and introduce your characters
-    Who are you and why did you answer the King's call?
-    Who is Safira , and what does she wants to do?
-    
-2.  Shuffle deck and place 4 cards in a row.
-3.  The STORYTELLER draws an encounter card, narrates the scene, and rolls DC.
-4.  Players narrate and roll to resolve the encounter.
-    (Check any character abilities and encounter bonuses to apply them!)
-5.  Resolve encounter.
-6.  If no player resolves the encounter, move it to Safira’s hideout.
-7.  Repeat!
-7.a. If you do not resolve a Safira loyalist encounter, move the loyalist to Safira's hideout and raise the DC +1 for all upcoming encounters. 
-     If a player resolves a Safira loyalist encounter, she keeps that loyalist as per usual encounter mechanic.
-     (i.e. the loyalist joins the party, to aid that character).
-9.  Encounter Safira: After round 6 or if you narrate through all the encounter cards.
-10.  Safira's hideout:
+## 🔮 **Gameplay Rundown**  
 
-        Safira's encounters are shuffled and placed, row above row, of four cards, from right to left, bottom up.
-        Safira's encounters are challenged from right to left, column by column (max 4 columns, and X rows).
-        Each encounter column is opened as a single encounter, by the STORYTELLER who rolls a single DC for that entire column.
-        Players try to resolve individual encounters in that column, as per usual mechanic (EDC).
-        To resolve an encounter column, players need to resolve all encounters in that column.
-        To resolve the entire Safira encounter phase players need to resolve X-1 number of columns
-        (I.e. 2 players - 1 column. 3 players - 2 columns.) 
+### 1️⃣ **Choose & Introduce Characters**  
+   - *Who are **you**?* ❓ *Why answer the King’s call?* 👑  
+   - *Who is **Safira**?* ❓ *What does she **truly** want?* 🔥  
+
+### 2️⃣ **Setup**  
+   - 🔀 *Shuffle deck* → *Place 4 cards in a row*.  
+
+### 3️⃣ 🖋️ **STORYTELLER’s Turn**  
+   - 📜 *Draw encounter card* → 🎙️ *Narrate scene* → 🎲 *Roll DC*.  
+
+### 4️⃣ **Players’ Turn**  
+   - 🗣️ *Narrate action* → 🎲 *Roll to resolve*  
+     *(Check abilities & bonuses! ⚡)*  
+
+### 5️⃣ **Resolve Encounter**  
+   - 🏆 *Player success?* → Take the encounter!*  
+   - ❌ *Party failure?* → 🏚️ *Move the encounter to **Safira’s Hideout***.
+
+   - - ** 🧑 Safira's Loyalists!:**  
+     - *Unresolved loyalist?* → Move the loyalist to **Safira’s Hideout** add 🔺 *DC +1*  
+     - *Resolved loyalist?* → 🤝 *That loyalist joins the player!*  
+
+### 6️⃣ 🔄 **Repeat!**  
+   
+### 8️⃣ 🔥 **Face Safira!**  
+   - *Trigger after **Round 6*** or *all encounters cleared*.  
+
+### 9️⃣ **Safira’s Hideout**  
+   - *Shuffle her encounters* → *Place 4 cards/row, **right to left, bottom up***.
+       
+   - 🎯 **Challenge Columns:**  
+     - ➡️ *Right-to-left*, *column-by-column* (max 4 columns, X rows).  
+     - 📜 *STORYTELLER rolls **1 DC per column***.  
+     - 🛡️ *Players resolve **individual encounters*** (same mechanics).
+     -   
+   - 🏁 **Win Condition:**  
+     - ✅ *Resolve **all encounters in column*** → ✔️ *Column cleared!*  
+     - 🎉 *Defeat Safira by resolving **X-1 columns***  
+       *(e.g., 2 players = 1 column, 3 players = 2 columns)*.  
 
 ---
 **LONG GAMEPLAY GUIDE**
