@@ -169,11 +169,14 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 ---
 **LONG GAMEPLAY GUIDE**
 ---
+
 **PARTY PHASE**
 
 Reveal your characters
-
-Who is Safira for you? Why did she escape? What do you think she wants to do? 
+Introduce your character to the party! 
+Introduce your intentions and interpretations of occuring events!
+Who is Safira for you? Why did she escape? What do you think she wants to do?
+Reveal your interpretation of occuring events, and state your character's agenda (or keep them hidden!)
 
 ---
 **ADVENTURE PHASE:**
