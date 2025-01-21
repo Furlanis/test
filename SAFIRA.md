@@ -39,9 +39,7 @@ Did you successfully thwart Safira's plans and achieve your own ambitions?
 If so, carry a fraStorytellerent of your triumph into a fresh adventure. 
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
-<div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="https://github.com/user-attachments/assets/2f9fd2f8-7ace-46e1-925e-838981f1691b" width="250" height="250" alt="Demacija_castle_za_discord">
-</div>
+---
 
 **Key Features:**
 
@@ -69,23 +67,17 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 ---
 
-  
-**AVAILABLE CHARACTERS:**
-
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
+<img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
 </div>
+
+**AVAILABLE CHARACTERS:**
 
 *   **STONE ADEPT (Fortitude/Intellect):** Stone magic adepts. (Stone magic: reinforcement). Stoic and Resilient. Loyal. Strong of mind and body. Awe-inspiring embodiment.
 *   **DESERT ADEPT (Presence/Agility):** Desert magic adepts. (Desert magic: Negation). Mysterious and Eerie. The silent type. Shunned and sometimes feared by the common folk.
 *   **FOREST ADEPT (Presence/Empathy):** Forest magic adepts. (Forest magic: Magic of life). Lively, exuberant, dynamic personalities. In symbiotic relationship with animal and plant life. In constant change.
 *   **KIGOI MUSICIAN (Eloquence/Intuition):** Most elegant and aesthetically pleasing race. Masters of music, dance, and singing. Particularly sensitive (conducive) to all forms of magic.
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
-
----
-
-
-
 
 ---
 
@@ -117,13 +109,15 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
         (I.e. 2 players - 1 column. 3 players - 2 columns.) 
 
 ---
-
 **LONG GAMEPLAY GUIDE**
-
+---
 **PARTY PHASE**
-Reveal your characters
-Each character answers: Who is Safira for you? Why did she escape? What do you think she wants to do? 
 
+Reveal your characters
+
+Who is Safira for you? Why did she escape? What do you think she wants to do? 
+
+---
 **ADVENTURE PHASE:**
 
 1.  **Place four encounter cards in a row:** ➤ This is your turn.
@@ -147,10 +141,11 @@ Each character answers: Who is Safira for you? Why did she escape? What do you t
     If the loyalist moves to Safira's hideout: Raise the DC for all upcoming adventure phase encounters with a +1.
     If a player wins the Safira Loyalist encounter, that player receives the Loyalist card. (I.e. The loyalist joins that character and the party). 
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/user-attachments/assets/07bcb79e-0be3-4545-ad41-fac76425d33d" width="300" height="400" alt="Demacija_castle_za_discord">
 </div>
 
+---
 
 **SAFIRA'S PHASE:**
 
@@ -180,6 +175,9 @@ E)Players take turns facing encounters within the same column. Each player attem
 If all players fail an encounter in a column, or if all encounters in a column are resolved, the party advances to the next column to the left. 
 
 Every player must act as the "Dungeon Master" (STORYTELLER) for at least one full column of encounters.
+
+
+---
   
 
 
