@@ -1,6 +1,6 @@
 # Balkanika: Safira’s Escape
 
-*Where every turn is a different story!*
+**Let your imagination run wild!**
 
 *A cooperative adventure card game*
 
@@ -10,34 +10,28 @@
   <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
 
-**Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
-Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
+---
 
-**The Dance of Storytellers**
-This game is not about winning or losing! 
-Rather, who will manage to be the conclusive storyteller? 
-Will it be your party of characters or will it be Safira?
-The answers aren't pre-written; they emerge organically as you narrate through the encounters. 
+Your story. Your way. Every time.
 
-**The size of your group influences the narrative balance.** 
-Smaller parties offer Safira a greater opportunity to shape events according to her will. 
-Larger parties have more influence over the unfolding story.
-Consider these power relations when forming your adventuring group! 
+---
 
-**Dynamic Encounters, Player-Driven Outcomes:** 
-Every encounter builds the world around you. 
-Safira's very nature changes based on the story you create. 
-Her personality, her goals, her role in the world.
-Will she become a heroic ally or a formidable foe? A trusted friend or a cunning adversary?
-And how will your characters interact with her, and with each other? 
-You decide!
+Your story starts here! 
+But who tells it, you or Safira? 
 
-**A Continuously Evolving Narrative:**
-The story doesn't end with a single victory or defeat. 
-After facing Safira in her hideout, each player concludes their character's personal story arc. 
-Did you successfully thwart Safira's plans and achieve your own ambitions? 
-If so, carry a fraStorytellerent of your triumph into a fresh adventure. 
-And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
+And what will you make of it? 
+Mystery? Love story? Action? You choose! 
+Every game shapes the world differently! 
+
+Be careful!
+Team size is story power! 
+Small team = Safira's advantage! 
+Big team = Your advantage!
+
+Face Safira! 
+How will your adventure end? 
+And what comes next? 
+If you wish, the story continues! 
 
 ---
 
@@ -53,11 +47,13 @@ And if Safira manages to evade your grasp and realize her own intentions, a new 
 
 ---
 
+
+**GEOGRAPHY:** 
+
 <div style="float: left; margin-right: 20px; text-align: justify;">
   <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
 
-**GEOGRAPHY:** 
 The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so.) Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons that the people simply call "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 
 ***
