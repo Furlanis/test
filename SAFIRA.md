@@ -156,9 +156,9 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
    - Once all encounters in a story column are engaged, the next player in the party opens the next story column.
    - Repeat!
    - 
-🏁 **Win Condition:**  
-   - ✅For columns of 1 -4 encounters → *Resolve all encounters in a column → ✔️ **Column cleared!**
-   - ✅For columns of 5 -7 encounters → *Resolve all encounters in a column -1 * → ✔️ **Column cleared!**
+<span style="font-size: 1em;">🏁 **Win Condition:**</span>  
+   - ✅ For columns of 1-4 encounters → *Resolve all encounters in a column* → ✔️ **Column cleared!**  
+   - ✅ For columns of 5-7 encounters → *Resolve all encounters in a column -1* → ✔️ **Column cleared!**
    -   
    - 🎉 *To best Safira's intentions and conclude the story in their favor:*
    - a party of 2 needs to clear minimally two story columns.
