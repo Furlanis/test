@@ -148,7 +148,7 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
    - 🎲 **STORYTELLER rolls 1 DC per story column, establishes EDC**
    - 
    - 🛡️ **Players engage individual encounters from bottom up** in this order
-   - All players roll their DC for the first bottom encounter simoultaneously.
+   - All players roll their DC for the first bottom encounter simultaneously.
    - Apply bonuses (one per player per encounter).
    - The player who resolves the encounter concludes the story for that encounter. Keep the encounter face up. 
    - If no player resolves the encounter, players freely and shortly narrate their failure. Flip the encounter face down. 
@@ -219,18 +219,21 @@ Each column is treated as a single, combined encounter.
 The STORYTELLER opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) for this entire column 
 (i.e. all encounters in that column will now have the same EDC)
 
-**Players will attempt to resolve individual cards within the current column using the standard game mechanics**
+**Players will attempt to resolve individual cards within the current column**
 
-A)The next player in turn order chooses what encounter to engage 
-B) Narrates their actions
+A)Start from the bottom encounter. 
 
-C) Rolls 1d20, applies bonuses, and checks against the EDC range.
-        (As usual other players may assist with their bonuses)
-        
-D)If the encounter is resolved it is fliced face down, if it is not, it remains face up.
+B)All players roll their DC roll. 
+  -Apply Card Bonuses and Ability bonuses-
+  
+C)Player(s) who resolved the encounter conclude the narration, the encounter remains face up. 
+ELSE
+If all players failed to resolve the encounter, they can freely narrate their failures. The encounter is flipped face down. 
 
-E)Players take turns facing encounters within the same column. Each player attempts one encounter. If successful, the encounter is resolved (flipped face down). 
-If all players fail an encounter in a column, or if all encounters in a column are resolved, the party advances to the next column to the left. 
+D)Players move to the next encounter upward. 
+
+E)When all encounters in a story column have been engaged, the next player in the party opens the next story column to the left and narrates it. 
+REPEAT Story Column Resolutions. 
 
 Every player must act as the "Dungeon Master" (STORYTELLER) for at least one full column of encounters.
 
