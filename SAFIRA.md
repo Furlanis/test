@@ -1,12 +1,11 @@
 <div align="center">
   
-# Safira’s Escape
+#  Safira’s Escape
 
-**Your imagination running wild!**
+**Imagination running wild!**
 
-*A storytelling card game*
-
-*For 2-5 players • Ages 7+ • 90-180 minutes*
+*A storytelling card game*  
+👥 *2-5 Players* • 🎂 *Ages 7+* • ⏳ *90-180 Minutes* 
 
 <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
@@ -34,7 +33,7 @@ Your story. Your way. Every time.
 💥 **Face Safira!**  
 *How will your adventure **end?***  
 *And what comes **next?***  
-*If you wish…* ***The story continues!***  
+***The story always continues!***  
 
 
 ---
@@ -56,7 +55,7 @@ Start fresh adventures with the **same crew** or **new heroes.** *(If you dare�
 
 ---
 
-**GEOGRAPHY:** 
+**ADVENTURE SETTING:** 
 
 <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
