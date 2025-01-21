@@ -145,7 +145,8 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
    -   
 🎯 **Challenge the Story Columns:**
    - ➡️*Right-to-left*, column-by-column *(max 4 columns, X rows)*
-   - 🎲**STORYTELLER rolls 1 DC per story column, establishes EDC**
+   - <span style="font-size: 1em;">🎲 **STORYTELLER rolls 1 DC per story column, establishes EDC**</span>  
+   - **
    - 
    - 🛡️**Players engage individual encounters from bottom up** in this order
    - All players roll their DC for the first bottom encounter simultaneously.
