@@ -142,7 +142,6 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 🃏 **Setup:**  
    - 🔀 *Shuffle her encounters* → 📥 **Place 4 cards/row**, *right to left, bottom up*.  
-
 🎯 **Challenge the Story Columns:**  
    - ➡️*Right-to-left*, column-by-column *(max 4 columns, X rows)*
    -   
@@ -156,7 +155,6 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
    - Move one encounter up.
    - Once all encounters in a story column are engaged, the next player in the party opens the next story column.
    - Repeat!
-
 🏁 **Win Condition:**  
    - ✅For columns of 1 -4 encounters → *Resolve all encounters in a column → ✔️ **Column cleared!**
    - ✅For columns of 5 -7 encounters → *Resolve all encounters in a column -1 * → ✔️ **Column cleared!**
