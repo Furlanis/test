@@ -19,10 +19,10 @@ Your story. Your way. Every time.
 ---
 
 🎲 **Your story starts here!**  
-*But who actually tells it... **you** or **Safira?***  
+*But who will actually tell it? **You** or **Safira?***  
 
 🚀 **What will you make of it?**  
-*Mystery?* *Love story?* *Action?* **YOU CHOOSE!**  
+*Mystery?* *Love story?* *Action?* **You choose!**  
 *Every game shapes the world **differently!***  
 
 ⚠️ **Be careful!**  
@@ -30,11 +30,10 @@ Your story. Your way. Every time.
 *Small team?* 🔺 ***Safira’s advantage!***  
 *Big team?* 🔹 ***Your advantage!***  
 
-💥 **Face Safira!**  
+💥 **Engage Safira, repeatedly!**  
 *How will your adventure **end?***  
 *And what comes **next?***  
 ***The story always continues!***  
-
 
 ---
 
@@ -49,8 +48,8 @@ Your story. Your way. Every time.
 🤝 **Collaborative Experience:**  
  Work with your party to **craft a wildly unique story.** (Individual tales chain together!) 
 
-⚡**High Replay Value:**  
-Start a fresh story with the **same crew** or **new heroes**. (If you want!) 
+⚡**High Replay Value:**
+Try again with the **same crew** or **new heroes**. (Safira is strong!)
 
 ---
 
