@@ -7,7 +7,7 @@
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/c10f3de4-727a-4f96-bb20-1e16224a57e5" width="150" height="250" alt="Demacija_castle_za_discord">
+  <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
 
 
@@ -39,6 +39,10 @@ After facing Safira in her hideout, each player concludes their character's pers
 Did you successfully thwart Safira's plans and achieve your own ambitions? 
 If so, carry a fraStorytellerent of your triumph into a fresh adventure. 
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/c10f3de4-727a-4f96-bb20-1e16224a57e5" width="150" height="250" alt="Demacija_castle_za_discord">
+</div>
 
 **Key Features:**
 
