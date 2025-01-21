@@ -10,7 +10,6 @@
   <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
 
-
 **Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
 Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
 
@@ -40,8 +39,8 @@ Did you successfully thwart Safira's plans and achieve your own ambitions?
 If so, carry a fraStorytellerent of your triumph into a fresh adventure. 
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/c10f3de4-727a-4f96-bb20-1e16224a57e5" width="150" height="250" alt="Demacija_castle_za_discord">
+<div style="float: left; margin-right: 20px; text-align: justify;">
+  <img src="https://github.com/user-attachments/assets/2f9fd2f8-7ace-46e1-925e-838981f1691b" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
 
 **Key Features:**
