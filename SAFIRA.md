@@ -41,7 +41,7 @@ Your story. Your way. Every time.
 **Key Features:**
 
 🎲 **Generative Storytelling:**  
-No two games are ever the same. (Seriously—it’s **impossible!**)
+No two games are ever the same. (Seriously—it’s impossible!)
 
 🖋️ **You are the STORYTELLER:**  
 **Your choices shape** the narrative and Safira herself. (Write it your way!)
