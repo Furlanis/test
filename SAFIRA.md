@@ -41,17 +41,16 @@ Your story. Your way. Every time.
 **Key Features:**
 
 🎲 **Generative Storytelling:**  
-No two games are ever the same. (Seriously—it’s impossible!)
+**No two games are ever the same.** (Seriously—it’s impossible!)
 
 🖋️ **You are the STORYTELLER:**  
 **Your choices shape** the narrative and Safira herself. (Write it your way!)
 
 🤝 **Collaborative Experience:**  
- Work with your party to craft a **wildly unique story.** (Individual tales chain together!) 
+ Work with your party to **craft a wildly unique story.** (Individual tales chain together!) 
 
 ⚡**High Replay Value:**  
-Start fresh adventures with the **same crew** or **new heroes**. (If you dare…!) 
-
+Start a fresh story with the **same crew** or **new heroes**. (If you want!) 
 
 ---
 
