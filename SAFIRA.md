@@ -4,7 +4,7 @@
 
 **Imagination running wild!**
 
-*A rogeulite storytelling card game*  
+*A roguelite storytelling card game*  
 👥 *2-5 Players* • 🎂 *Ages 7+* • ⏳ *90-180 Minutes* 
 
 <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
