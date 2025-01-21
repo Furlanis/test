@@ -6,11 +6,13 @@
 
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/c10f3de4-727a-4f96-bb20-1e16224a57e5" width="150" height="250" alt="Demacija_castle_za_discord">
+</div>
+
+
 **Tired of pre-written narratives? In this unique game, you and your party are the storytellers. 
 Every playthrough is a brand-new adventure, born from your collective imagination and driven by your choices.**
-<div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="[https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82](https://github.com/user-attachments/assets/42e823c0-bd58-4956-a2e2-2c66e9b17f11)" width="350" height="450" alt="Criminal">
-</div>
 
 **The Dance of Storytellers**
 This game is not about winning or losing! 
@@ -39,10 +41,6 @@ If so, carry a fraStorytellerent of your triumph into a fresh adventure.
 And if Safira manages to evade your grasp and realize her own intentions, a new chapter begins, offering fresh challenges and possibilities.
 
 **Key Features:**
-<div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="[[https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82]](https://github.com/user-attachments/assets/42e823c0-bd58-4956-a2e2-2c66e9b17f11)" width="350" height="450" alt="Criminal">
-</div>
-
 
 **Generative Storytelling:** No two games are ever the same. (Like really, it's not possible!)
 
@@ -67,8 +65,13 @@ The city-state of Damatia is the strongest political kingdom on the Balkania con
 The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards.
 
 ---
-
+<div align="center">
+  
 **AVAILABLE CHARACTERS:**
+
+
+  <img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
+</div>
 
 *   **STONE ADEPT (Fortitude/Intellect):** Stone magic adepts. (Stone magic: reinforcement). Stoic and Resilient. Loyal. Strong of mind and body. Awe-inspiring embodiment.
 *   **DESERT ADEPT (Presence/Agility):** Desert magic adepts. (Desert magic: Negation). Mysterious and Eerie. The silent type. Shunned and sometimes feared by the common folk.
@@ -77,9 +80,9 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
 
 ---
-<div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="https://github.com/user-attachments/assets/363fc3c1-3522-47cd-95fa-b16c3790fcbf" width="350" height="450" alt="Demacija_castle_za_discord">
-</div>
+
+
+
 
 ---
 
@@ -141,9 +144,10 @@ Each character answers: Who is Safira for you? Why did she escape? What do you t
     If the loyalist moves to Safira's hideout: Raise the DC for all upcoming adventure phase encounters with a +1.
     If a player wins the Safira Loyalist encounter, that player receives the Loyalist card. (I.e. The loyalist joins that character and the party). 
 
-<div style="float: left; margin-right: 20px; text-align: justify;">
-  <img src="https://github.com/user-attachments/assets/dfa509e4-206f-497e-b9de-b23e3150583a" width="350" height="450" alt="Demacija_castle_za_discord">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/07bcb79e-0be3-4545-ad41-fac76425d33d" width="300" height="400" alt="Demacija_castle_za_discord">
 </div>
+
 
 **SAFIRA'S PHASE:**
 
