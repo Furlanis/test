@@ -65,11 +65,11 @@ The city-state of Damatia is the strongest political kingdom on the Balkania con
 The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards.
 
 ---
-<div align="center">
+
   
 **AVAILABLE CHARACTERS:**
 
-
+<div align="left">
   <img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
 </div>
 
