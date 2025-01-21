@@ -72,13 +72,36 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 <img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="250" height="250" alt="Demacija_castle_za_discord">
 
 
-**AVAILABLE CHARACTERS:**
+## 🌟 **AVAILABLE CHARACTERS**  
 
-*   **STONE ADEPT (Fortitude/Intellect):** Stone magic adepts. (Stone magic: reinforcement). Stoic and Resilient. Loyal. Strong of mind and body. Awe-inspiring embodiment.
-*   **DESERT ADEPT (Presence/Agility):** Desert magic adepts. (Desert magic: Negation). Mysterious and Eerie. The silent type. Shunned and sometimes feared by the common folk.
-*   **FOREST ADEPT (Presence/Empathy):** Forest magic adepts. (Forest magic: Magic of life). Lively, exuberant, dynamic personalities. In symbiotic relationship with animal and plant life. In constant change.
-*   **KIGOI MUSICIAN (Eloquence/Intuition):** Most elegant and aesthetically pleasing race. Masters of music, dance, and singing. Particularly sensitive (conducive) to all forms of magic.
-*   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
+### 🗿 **STONE ADEPT** *(Fortitude/Intellect)*  
+> - **Magic:** 🪨 *Stone Magic (Reinforcement)*  
+> - **Traits:** 🛡️ Stoic • 💪 Resilient • 🌄 Awe-Inspiring  
+
+---
+
+### 🌵 **DESERT ADEPT** *(Presence/Agility)*  
+> - **Magic:** 🌀 *Desert Magic (Negation)*  
+> - **Traits:** 👻 Mysterious • 🕶️ Eerie • 🌪️ Feared  
+
+---
+
+### 🌳 **FOREST ADEPT** *(Presence/Empathy)*  
+> - **Magic:** 🌸 *Forest Magic (Life)*  
+> - **Traits:** 🦋 Lively • 🌿 Symbiotic • 🔄 Ever-Changing  
+
+---
+
+### 🎶 **KIGOI MUSICIAN** *(Eloquence/Intuition)*  
+> - **Magic:** ✨ *Conduit to All Magic*  
+> - **Traits:** 🎭 Artistic • 🎻 Sensitive • 🌈 Aesthetic  
+
+---
+
+### ⚔️ **DAMATIA KNIGHT** *(Might/Eloquence)*  
+> - **Role:** 🛡️ *Protector of Damatia*  
+> - **Traits:** 🏛️ Disciplined • 💬 Inspiring • ⚡ Loyal  
+
 
 </div>
 
