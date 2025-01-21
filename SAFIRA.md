@@ -116,19 +116,19 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 ### 8️⃣ 🔥 **Face Safira!**  
    - *Trigger after **Round 6*** or *all encounters cleared*.  
 
-### 9️⃣ **Safira’s Hideout**
-   - Shuffle her encounters then Place 4 cards/row, right to left, bottom up
+### 9️⃣ **Safira’s Hideout**  
 
-   - 
-     - **Challenge Columns:**
-     - *Right-to-left*, *column-by-column* (max 4 columns, X rows).  
-     - *STORYTELLER rolls **1 DC per column***.  
-     - *Players resolve **individual encounters*** (same mechanics).
-  
-   - 🏁 **Win Condition:**  
-     - ✅ *Resolve **all encounters in column*** → ✔️ *Column cleared!*  
-     - 🎉 *Defeat Safira by resolving **X-1 columns***  
-       *(e.g., 2 players = 1 column, 3 players = 2 columns)*.  
+🃏 **Setup:**  
+   - 🔀 *Shuffle her encounters* → 📥 **Place 4 cards/row**, *right to left, bottom up*.  
+
+🎯 **Challenge Columns:**  
+   - ➡️ *Right-to-left*, column-by-column *(max 4 columns, X rows)*.  
+   - 🎲 **STORYTELLER rolls 1 DC per column**.  
+   - 🛡️ **Players resolve individual encounters** *(same mechanics)*.  
+
+🏁 **Win Condition:**  
+   - ✅ *Resolve all encounters in a column* → ✔️ **Column cleared!**  
+   - 🎉 *Defeat Safira by resolving **X-1 columns***.  
 
 ---
 **LONG GAMEPLAY GUIDE**
