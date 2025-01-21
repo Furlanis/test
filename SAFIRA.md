@@ -74,31 +74,31 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 
 ## 🌟 **AVAILABLE CHARACTERS**  
 
-### 🗿 **STONE ADEPT** *(Fortitude/Intellect)*  
+### **STONE ADEPT** *(Fortitude/Intellect)*  
 > - **Magic:** 🪨 *Stone Magic (Reinforcement)*  
 > - **Traits:** 🛡️ Stoic • 💪 Resilient • 🌄 Awe-Inspiring  
 
 ---
 
-### 🌵 **DESERT ADEPT** *(Presence/Agility)*  
+###  **DESERT ADEPT** *(Presence/Agility)*  
 > - **Magic:** 🌀 *Desert Magic (Negation)*  
-> - **Traits:** 👻 Mysterious • 🕶️ Eerie • 🌪️ Feared  
+> - **Traits:**  🕶️ Mysterious • 👻 Eerie • 🌪️ Feared  
 
 ---
 
-### 🌳 **FOREST ADEPT** *(Presence/Empathy)*  
+###  **FOREST ADEPT** *(Presence/Empathy)*  
 > - **Magic:** 🌸 *Forest Magic (Life)*  
 > - **Traits:** 🦋 Lively • 🌿 Symbiotic • 🔄 Ever-Changing  
 
 ---
 
-### 🎶 **KIGOI MUSICIAN** *(Eloquence/Intuition)*  
+###  **KIGOI MUSICIAN** *(Eloquence/Intuition)*  
 > - **Magic:** ✨ *Conduit to All Magic*  
 > - **Traits:** 🎭 Artistic • 🎻 Sensitive • 🌈 Aesthetic  
 
 ---
 
-### ⚔️ **DAMATIA KNIGHT** *(Might/Eloquence)*  
+### **DAMATIA KNIGHT** *(Might/Eloquence)*  
 > - **Role:** 🛡️ *Protector of Damatia*  
 > - **Traits:** 🏛️ Disciplined • 💬 Inspiring • ⚡ Loyal  
 
