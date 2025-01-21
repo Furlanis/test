@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Safira’s Escape
 
 **Your imagination running wild!**
@@ -6,16 +8,20 @@
 
 *For 2-5 players • Ages 7+ • 90-180 minutes*
 
-<div align="left">
+
   <img src="https://github.com/user-attachments/assets/e89c3433-7b9a-4119-8d3c-42e5ab9a2b1d" width="250" height="250" alt="Demacija_castle_za_discord">
 </div>
 
 ---
 
+<div align="center">
 Your story. Your way. Every time.
+</div>
 
 ---
-  
+
+<div align="center">
+
 🎲 **Your story starts here!**  
 *But who actually tells it... **you** or **Safira?***  
 
@@ -33,7 +39,12 @@ Your story. Your way. Every time.
 *And what comes **next?***  
 *If you wish…* ***The story continues!***  
 
+
+</div>
+
+
 ---
+<div align="center">
 
 **Key Features:**
 
@@ -49,27 +60,34 @@ Your choices shape **the narrative** *and* **Safira herself.** *(Write it **your
 ⚡**High Replay Value:**  
 Start fresh adventures with the **same crew** or **new heroes.** *(If you dare…!)*   
 
+</div>
+
 ---
 
+<div align="center">
 
 **GEOGRAPHY:** 
 
-<div style="float: left; margin-right: 20px; text-align: justify;">
+
   <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
 
 The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so.) Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons that the people simply call "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state.
 
 ***
-
+<div align="center">
+  
 **YOUR MISSION:**
+
 The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards.
 
----
-
-<div align="left">
-<img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
 </div>
+
+---
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="150" height="150" alt="Demacija_castle_za_discord">
+
 
 **AVAILABLE CHARACTERS:**
 
@@ -78,6 +96,8 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 *   **FOREST ADEPT (Presence/Empathy):** Forest magic adepts. (Forest magic: Magic of life). Lively, exuberant, dynamic personalities. In symbiotic relationship with animal and plant life. In constant change.
 *   **KIGOI MUSICIAN (Eloquence/Intuition):** Most elegant and aesthetically pleasing race. Masters of music, dance, and singing. Particularly sensitive (conducive) to all forms of magic.
 *   **DAMATIA KNIGHT (Might/Eloquence):** Fiercely loyal and disciplined protectors of Damatia. Embodiment of Damatian ideals and role models for the common folk.
+
+</div>
 
 ---
 
