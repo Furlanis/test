@@ -1,4 +1,4 @@
-# Balkanika: Safira’s Escape
+# Safira’s Escape
 
 **Your imagination running wild!**
 
