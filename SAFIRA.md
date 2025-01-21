@@ -119,8 +119,7 @@ The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira
 ### 9️⃣ **Safira’s Hideout**
    -
    - Shuffle her encounters then Place 4 cards/row, right to left, bottom up
-   - 
-     - **Challenge Columns:**  
+     - **Challenge Columns:** 🔥 
      - *Right-to-left*, *column-by-column* (max 4 columns, X rows).  
      - *STORYTELLER rolls **1 DC per column***.  
      - *Players resolve **individual encounters*** (same mechanics).
