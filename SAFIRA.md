@@ -89,7 +89,7 @@ It was a typical, busy day at the Damatia Street market when, unexpectedly, a gr
 
 ---
 ## Kigoi Musician Arc
-
+Since Safira vanished from her royal post, a disquieting presence has settled upon the Kigoi community at the heart of the city-state. Shadowy figures have been seen trailing their members, raising fears of both unwanted surveillance and outright hostility. Unable to discern whether these observers are protectors or predators, the Kigoi have spread word of the sightings throughout their community and sent a trusted representative to the royal hall, seeking answers and direction.
 
 ---
 
