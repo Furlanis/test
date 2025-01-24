@@ -52,33 +52,44 @@ Your story. Your way. Every time.
 Try again with another **story arc** or play again with **new heroes**
 
 ---
-**ADVENTURE SETTING:** 
+# ADVENTURE SETTING
 
-<img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
-
+<div style="float: left; margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
 </div>
 
-The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so.) Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons that the people simply call "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state. 
----
+The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and its magical technology: **Charotek**. In the words of the late King Arcturus:  
+*"Yesh hauru dende orion, tek oida wun."*  
+("No individual climbs the mountain of prosperity alone, only a company does so.")  
 
-# YOUR MISSIONS:
-
-DAMATIA KNIGHT ARC:
-**The Royal Court seeks skilled knights with an experienced and active service to the Crown for this important mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return.**
----
-**DESERT ADEPT ARC:**
-**In the weeks following Safira's mysterious vanishing, Charotek devices—the very lifeblood of the nation—have begun to fail at critical junctures. Despite a swift and thorough investigation by the royal court, the cause remains elusive, with whispers of sabotage growing louder by the day. Bent to determine if rogue agency is at play, Damatia has requested the expertise of a renowned desert adept from the Desert City. The adept is to join the inquiry, tasked with determining if a rogue practitioner of negation magic is at the root of these events.**
----
-**FOREST ADEPT ARC:**
-**The Council of the Forest Castle was very worried. Their precious silver fox had been ill for a month. She can't eat, she sleeps all day, and the color of the crystals on her back has started to fade. It all started when the Damatian explorer visited their castle, and the council suspects he had something to do with the fox's condition. They sent their best researcher to Damatia to locate the explorer, examine the evidence, and obtain a cure for the fox.**
----
-**STONE ADEPT ARC:** 
-**
-**Noted of the sudden disappearance of Safira Crescentis, a venturing Stone Adept, in his Exodus journey, has joined the prospective advetuerers at the royal hall, in order to locate and resolve the mystery of the ArchEngineer's vanishing. Intrigued by the mystery and possible dangers lurking in this task, the Stone Adept stands determined to prove their mettle and resolve the issue with determined haste. 
-
+Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city-state.
 
 ---
-KIGOI MUSICIAN ARC: 
+
+# YOUR MISSIONS
+
+## Damatia Knight Arc
+The Royal Court seeks skilled knights with an experienced and active service to the Crown for this important mission: the retrieval of **Safira Crescentis**, the realm's ArchEngineer. Safira has neglected her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return.
+
+---
+
+## Desert Adept Arc
+In the weeks following Safira's mysterious vanishing, Charotek devices—the very lifeblood of the nation—have begun to fail at critical junctures. Despite a swift and thorough investigation by the royal court, the cause remains elusive, with whispers of sabotage growing louder by the day. Bent on determining if a rogue agency is at play, Damatia has requested the expertise of a renowned Desert Adept from the Desert City. The adept is to join the inquiry, tasked with determining if a rogue practitioner of negation magic is at the root of these events.
+
+---
+
+## Forest Adept Arc
+The Council of the Forest Castle was very worried. Their precious silver fox had been ill for a month. She can't eat, she sleeps all day, and the color of the crystals on her back has started to fade. It all started when a Damatian explorer visited their castle, and the council suspects he had something to do with the fox's condition. They sent their best researcher to Damatia to locate the explorer, examine the evidence, and obtain a cure for the fox.
+
+---
+
+## Stone Adept Arc
+Noted of the sudden disappearance of Safira Crescentis, a venturing Stone Adept, in his Exodus journey, has joined the prospective adventurers at the royal hall to locate and resolve the mystery of the ArchEngineer's vanishing. Intrigued by the mystery and possible dangers lurking in this task, the Stone Adept stands determined to manifest mettle and resolve the issue with determined haste.
+
+
+---
+## Kigoi Musician Arc
+
 
 
 
@@ -93,7 +104,7 @@ KIGOI MUSICIAN ARC:
 > - **Magic:** 🪨 *Stone Magic (Reinforcement)*  
 > - **Traits:** 🛡️ Stoic • 💪 Resilient • 🌄 Awe-Inspiring  
 
-# Stone Adept Background
+# Background
 
 Many things could be said about the Stone City Adepts, but one is certain: they are an honorable and respectful bunch. Surely, they are no ordinary folk. You cannot quite expect to have a leisurely talk with any of them, as they tend to be quite silent, stone-faced, and often peer into a single spot without moving. However, if you require a firm hand to rely on, they are your best bet—especially if they are currently in their “Exodus.”
 
@@ -104,7 +115,7 @@ During Exodus, you can count on some adventure, as they are ready to go forth an
 > - **Magic:** 🌀 *Desert Magic (Negation)*  
 > - **Traits:**  🕶️ Mysterious • 👻 Eerie • 🌪️ Feared  
 
-# Desert City Background
+# Background
 
 One simply does not go into the Desert City uninvited. This is what is often said about the submerged city. Truly, the Alia—as the Desert dwellers call their city area—is a place where seldom a traveler ventures freely. The cause for such weariness lies not only in the precarious desert pocket, home to many poisonous insects and quicksand sinks, but even more in the **nullity**, a field of negation magic that permeates the air, earth, and sky around the Charocracy Desert.
 
@@ -115,7 +126,7 @@ Here, the closer one gets to the city’s underground entrance, the harder it be
 > - **Magic:** 🌸 *Forest Magic (Life)*  
 > - **Traits:** 🦋 Lively • 🌿 Symbiotic • 🔄 Ever-Changing  
 
-# Forest City Background
+# Background
 
 Experienced adventurers will often advise their younger kin not to judge the “Foresters” based on first impressions. It can often happen that one shares travel with a brooding, silent forest mage, only to find the same person, years later, thoroughly changed in appearance and personality. Due to these vigorous changes in character, friendships with Forest dwellers are intense but seldom last long in the same form or manner.
 
@@ -126,7 +137,7 @@ This permutability is also reflected in the life of the city, where personal rel
 > - **Magic:** ✨ *Conduit to All Magic*  
 > - **Traits:** 🎭 Artistic • 🎻 Sensitive • 🌈 Aesthetic
 
-# Kigoi Musician Background
+# Background
 
 “You know, I have to bust your Damatian dream here, because not everyone is so jolly about Damatia as you seem to be! You’ve heard about the Kigoi, right? Those pointy-eared nomads with fair skin and elegant faces? Well, if you find one that’s talkative, you’ll hear firsthand how much the ‘freedom-loving’ Damatian Law really is. People disappearing in the night, many of them Kigoi! And then? A couple of months later, a series of newly upgraded Charomons rolls out on the streets. Peculiar, ain’t it? And what of the forbidden experiments in underground laboratories? And the obvious change that comes with the imprint? Don’t you dare speak to me about conspiracy theories! Parts of my family, my own kin, became outright placid after it! Nonsense, you say? Take me for a fool, but you won’t make an imprint out of me, that’s for sure!”  
 — *Jerry the Rogue, Convicted Damatian Criminal*
@@ -134,7 +145,11 @@ This permutability is also reflected in the life of the city, where personal rel
 ---
 ### **DAMATIA KNIGHT** *(Might/Eloquence)*  
 > - **Role:** 🛡️ *Protector of Damatia*  
-> - **Traits:** 🏛️ Disciplined • 💬 Inspiring • ⚡ Loyal  
+> - **Traits:** 🏛️ Disciplined • 💬 Inspiring • ⚡ Loyal
+
+# Background
+
+Damatians see their city-state as the jewel of the continent and accknowledge their common heritage with great pride. For this reason, they do not accept lightly when someone blemishes this commonly shared vision. Consequently, criminals are harshly punished, and even smaller transgressions such as cheating in trade is strongly penalized. Corruption is a social taboo, and physically hurting a fellow Damatian is met with harsh retribution. Damatia takes good care of its citizens, often providing many of the necessary social services such as education medical aid and public safety without any cost to its citizens. Citizens contribute to this common welfare with the “imprint” – the provision of one’s mental state, one’s memories, emotions and character for the creation of Charotek automatons or "Borots" as the common folk calls them.  
 
 ---
 
@@ -151,7 +166,7 @@ This permutability is also reflected in the life of the city, where personal rel
    - *Who is **Safira**?* ❓ *What does she **truly** want?* 🔥  
 
 ### 2️⃣ **Setup**  
-   - 🔀 *Shuffle deck* → *Place 4 cards in a row*.  
+   - 🔀 *Shuffle deck* → *Place 5 cards in a row*.  
 
 ### 3️⃣ 🖋️ **STORYTELLER’s Turn**  
    - 📜 *Draw encounter card* → 🎙️ *Narrate scene* → 🎲 *Roll DC*.  
@@ -160,7 +175,6 @@ This permutability is also reflected in the life of the city, where personal rel
    - 🗣️ *Narrate action* → 🎲 *Roll to resolve*  
      *(Check abilities & apply bonuses, one per player, per encounter! ⚡)*
      
-
 ### 5️⃣ **Resolve Encounter**  
    - 🏆 *Player success?* → Take the encounter!*  
    - ❌ *Party failure?* → 🏚️ *Move the encounter to **Safira’s Hideout***.
@@ -177,10 +191,11 @@ This permutability is also reflected in the life of the city, where personal rel
 ### <span style="font-size: 1em;">9️⃣ **Safira’s Hideout**</span>  
 
 <span style="font-size: 1em;">🃏 **Setup:**</span>  
-   - 🔀 *Shuffle her encounters* → 📥 **Place 4 cards/row**, *right to left, bottom up*  
+   - 🔀 *Shuffle her encounters* → 📥 **Place 5 cards/row**, *right to left, bottom up*
+   - 📥 **Place Safira's loyalists (won by Safira) above her encounter row.
 
 🎯 **Challenge the Story Columns:** 
-   - ➡️*Right-to-left*, column-by-column *(max 4 columns, X rows)*
+   - ➡️*Right-to-left*
    -   
    - 🎲 **STORYTELLER rolls 1 DC per story column, establishes EDC**
    -  
@@ -245,42 +260,5 @@ Reveal your interpretation of occuring events, and state your character's agenda
 
 ---
 
-**SAFIRA'S PHASE:**
 
-**Setup:** 
-Shuffle Safira's encounter cards (encounters Safira won through the game). 
-Arrange them face up in rows of four, from right to left. This usually creates columns of varying heights with highest columns being on the right.
-
-**Challenge Order:** 
-Safira's encounters are challenged from right to left, column by column. There can be up to four columns.
-
-**Resolution order:**
-Each column is treated as a single, combined encounter.
-The STORYTELLER opens all cards in a column, narrates the story connecting these encounters and rolls a single d20 to determine the Encounter Difficulty Check (EDC) for this entire column 
-(i.e. all encounters in that column will now have the same EDC)
-
-**Players will attempt to resolve individual cards within the current column**
-
-A)Start from the bottom encounter. 
-
-B)All players roll their DC roll. 
-  -Apply Card Bonuses and Ability bonuses-
-  
-C)Player(s) who resolved the encounter conclude the narration, the encounter remains face up. 
-ELSE
-If all players failed to resolve the encounter, they can freely narrate their failures. The encounter is flipped face down. 
-
-D)Players move to the next encounter upward. 
-
-E)When all encounters in a story column have been engaged, the next player in the party opens the next story column to the left and narrates it. 
-REPEAT Story Column Resolutions. 
-
-Every player must act as the "Dungeon Master" (STORYTELLER) for at least one full column of encounters.
-
-
----
-  
-
-
-..............
 
