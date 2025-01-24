@@ -49,7 +49,7 @@ Your story. Your way. Every time.
  Work with your party to **craft a wildly unique story.** (Individual tales chain together!) 
 
 ⚡**High Replay Value:**
-Try again with another **story arc** or play again with **new heroes**
+Try again with another **story arc** or play again with new heroes in a **different party**! 
 
 ---
 # ADVENTURE SETTING
@@ -172,10 +172,19 @@ The Royal Hall of Damatia hums with ever-constant anticipation as sunlight strea
    - 🔀 *Shuffle deck* → *Place 5 cards in a row*.  
 
 ### 3️⃣ 🖋️ **STORYTELLER’s Turn**  
-   - 📜 *Draw encounter card* → 🎙️ *Narrate scene* → 🎲 *Roll DC*.  
+   - 📜 *Draw encounter card* → 🎙️ *Narrate scene* → 🎲 *Roll DC* and ESTABLISH EDC
+   - EDC - Encounter DC (X-1, X, X+1)
+   - *EXAMPLE: Storyteller 🎲 13 → EDC: 12, 13, 14
+   - IF THE DC IS 10 OR BELOW → *SAFIRA INTRUDES ON THIS ENCOUNTER* → Draw one Safira's Intrusion card and remove value X from the EDC!
+   - Example:
+   - (SAFIRA INTRUDES!): DC is 9 → EDC: 8, 10.
+   - (SAFIRA DOES NOT INTRUDE): DC is 13 → EDC: 12, 13, 14. 
 
 ### 4️⃣ **Players’ Turn**  
-   - 🗣️ *Narrate action* → 🎲 *Roll to resolve*  
+   - 🗣️ *Narrate action* → 🎲 *ROLL TO RESOLVE SUCCESFULLY: ROLL WITHIN THE EDC RANGE*
+   - *EXAMPLE*
+   - DC is 13 → A PLAYER NEEDS TO ROLL EITHER 12, 13, or 14!
+   - DC is 10 (Safira intrudes!) → A PLAYER NEEDS TO ROLL EITHER 9 or 11 to RESOLVE!
      *(Check abilities & apply bonuses, one per player, per encounter! ⚡)*
      
 ### 5️⃣ **Resolve Encounter**  
