@@ -158,7 +158,8 @@ Damatians see their city-state as the jewel of the continent and accknowledge th
 ---
 ## Party Meeting Place: The Royal Hall
 
-The Royal Hall of Damatia hums with ever-constant anticipation as sunlight streams through the mosaic-glass windows, casting vibrant patterns across its polished floor. **Borots** and humans alike stride towards their tasks, immersed within the subtle hum and whirring of the grand clockwork mechanism. The air is thick with the scent of polished metal, expensive perfumes, and beeswax—a fitting aroma for this place of power, where the Kingdom shapes its destiny.
+The Royal Hall of Damatia hums with ever-constant anticipation as sunlight streams through the mosaic-glass windows, casting vibrant patterns across its polished floor. **Borots** and humans alike stride toward their tasks, immersed in the subtle hum and whirring of the grand clockwork mechanism. The air is thick with the scent of polished metal, expensive perfumes, and beeswax—a fitting aroma for this place of power, where the Kingdom shapes its destiny.
+
 ---
 
 **SHORT GAMEPLAY GUIDE:**
