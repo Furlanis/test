@@ -49,35 +49,32 @@ Your story. Your way. Every time.
  Work with your party to **craft a wildly unique story.** (Individual tales chain together!) 
 
 ⚡**High Replay Value:**
-Try again with the **same crew** or **new heroes**. 
+Try again with another **story arc** or play again with **new heroes**
 
 ---
-
 **ADVENTURE SETTING:** 
 
 <img src="https://github.com/user-attachments/assets/7b06bb3b-a74e-41b3-9d69-a1198ecc6c82" width="350" height="450" alt="Demacija_castle_za_discord">
+
 </div>
 
 The city-state of Damatia is the strongest political kingdom on the Balkania continent, known for its prosperity and unique cultural foundations. Damatia's success comes from a strong work ethic and its magical technology: Charotek. In the words of the late King Arcturus: *"Yesh hauru dende orion, tek oida wun."* ("No individual climbs the mountain (of prosperity) alone, only a company does so.) Damatians take pride in their shared vision and harshly punish criminals, with corruption being a social taboo. Citizens contribute to the common welfare through the "imprint" - providing their mental state to create Charotek automatons that the people simply call "Borots". Notwithstanding its many benefits and opportunities, the Kingdom of Damatia harbors many secrets, with rumors of illicit and volatile Charotek experimentations abounding by the day on the busy streets and markets of the city state. 
+---
 
-***
-  
-**YOUR MISSIONS:**
+# YOUR MISSIONS:
 
 DAMATIA KNIGHT ARC:
-
-The Royal Court seeks skilled adventurers for a mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return and promises great rewards.
+**The Royal Court seeks skilled knights with an experienced and active service to the Crown for this important mission: the retrieval of Safira Crescentis, the realm's ArchEngineer. Safira has relegated on her duties, and her current whereabouts are unknown. Evidence points to a hidden sanctuary somewhere in the Damatian territory and a group of loyalists aiding her cause. The Crown demands her swift return.**
 ---
-DESERT ADEPT ARC:
-
-In the weeks following Safira's mysterious vanishing, Charotek devices—the very lifeblood of the nation—have begun to fail at critical junctures. Despite a swift and thorough investigation by the royal court, the cause remains elusive, with whispers of sabotage growing louder by the day. Bent to determine if rogue agency is at play, Damatia has requested the expertise of a renowned desert adept from the Desert City. The adept is to join the inquiry, tasked with determining if a rogue practitioner of negation magic is at the root of these events.
+**DESERT ADEPT ARC:**
+**In the weeks following Safira's mysterious vanishing, Charotek devices—the very lifeblood of the nation—have begun to fail at critical junctures. Despite a swift and thorough investigation by the royal court, the cause remains elusive, with whispers of sabotage growing louder by the day. Bent to determine if rogue agency is at play, Damatia has requested the expertise of a renowned desert adept from the Desert City. The adept is to join the inquiry, tasked with determining if a rogue practitioner of negation magic is at the root of these events.**
 ---
-FOREST ADEPT ARC:
-
-The Council of the Forest Castle was very worried. Their precious silver fox had been ill for a month. She can't eat, she sleeps all day, and the color of the crystals on her back has started to fade. It all started when the Damatian explorer visited their castle, and the council suspects he had something to do with the fox's condition. They sent their best researcher to Damatia to locate the explorer, examine the evidence, and obtain a cure for the fox.
+**FOREST ADEPT ARC:**
+**The Council of the Forest Castle was very worried. Their precious silver fox had been ill for a month. She can't eat, she sleeps all day, and the color of the crystals on her back has started to fade. It all started when the Damatian explorer visited their castle, and the council suspects he had something to do with the fox's condition. They sent their best researcher to Damatia to locate the explorer, examine the evidence, and obtain a cure for the fox.**
 ---
-STONE ADEPT ARC: 
-
+**STONE ADEPT ARC:** 
+**
+**Noted of the sudden disappearance of Safira Crescentis, a venturing Stone Adept, in his Exodus journey, has joined the prospective advetuerers at the royal hall, in order to locate and resolve the mystery of the ArchEngineer's vanishing. Intrigued by the mystery and possible dangers lurking in this task, the Stone Adept stands determined to prove their mettle and resolve the issue with determined haste. 
 
 
 ---
@@ -98,7 +95,7 @@ KIGOI MUSICIAN ARC:
 
 # Stone Adept Background
 
-Many things could be said about the Stone City Adepts, but one is certain: they are an honorable and respectful bunch. Surely, they are no ordinary folk. You cannot quite expect to have a leisurely talk with any of them, as they tend to be quite silent, stone-faced, and often peer into a single spot without moving. However, if you require a firm hand to rely on, they are your best bet—especially if they are currently in **“Exodus.”**
+Many things could be said about the Stone City Adepts, but one is certain: they are an honorable and respectful bunch. Surely, they are no ordinary folk. You cannot quite expect to have a leisurely talk with any of them, as they tend to be quite silent, stone-faced, and often peer into a single spot without moving. However, if you require a firm hand to rely on, they are your best bet—especially if they are currently in their “Exodus.”
 
 During Exodus, you can count on some adventure, as they are ready to go forth and accomplish remarkable (and often dangerous) tasks. Most importantly, they won’t ask for a single piece of silver while doing so—strictly forbidden, you know? They must prove their mettle to pass the age of testing, a rite of passage of sorts. Some even speculate that Exodus is a nifty, almost devious way to curb their population numbers, ensuring only the strong remain. This aligns perfectly with their attitude.
 
