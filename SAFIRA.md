@@ -91,8 +91,6 @@ It was a typical, busy day at the Damatia Street market when, unexpectedly, a gr
 ## Kigoi Musician Arc
 
 
-
-
 ---
 
 <img src="https://github.com/user-attachments/assets/0132a887-3c25-4686-a8d6-55e337951120" width="250" height="250" alt="Demacija_castle_za_discord">
@@ -200,8 +198,59 @@ The Royal Hall of Damatia hums with ever-constant anticipation as sunlight strea
    - 📥 **Place Safira's loyalists (won by Safira) above her encounter row.
 
 🎯 **Challenge the Story Columns:** 
-   - ➡️*Right-to-left*
-   
+   - ➡️EACH player contributes an encounter card (if a player does not have an EC, another player contributes)
+   - First player, opens up Safira's card (and a Loyalist card if available)  → Narrates  → ROLLS Safira's Roll, adds Safira's DC Bonus, uses Loyalist effect.
+   - Then, the player calculates and uses all possible DC bonuses (card effects, character abilities, class match) → Rolls  → Narrates the conclusion.
+   - If player wins, Safira's cards are placed face down. If the player loses, she places her card face down.
+   - Next player in line, narrates the 2nd encounter in line.
+   - REPEAT until all cards are engaged.
+---
+LOYALIST EFFECTS
+---
+
+## Thief
+- **Safira's Effect**:  
+  When opened, steals a card from the Narrator. If the Narrator has no cards, steals from whoever has the most cards. Discard the Thief.
+
+- **Player Effect**:  
+  If you have a Thief, you can take one card from Safira's encounter cards into your play area and use that card in this encounter. Discard the Thief.
+
+---
+
+## Convict
+- **Player Effect**:  
+  In that encounter column, the Narrator rolls with advantage.
+
+- **Safira's Effect**:  
+  Everyone in that encounter column rolls with disadvantage.
+
+---
+
+## Mercenary
+- **Player Effect**:  
+  For that encounter column, the Narrator gets an additional **+2** for that encounter.
+
+- **Safira's Effect**:  
+  For that encounter column, Safira gets an additional **+2** for that encounter.
+
+---
+
+## Garo
+- **Player Effect**:  
+  The Narrator can use one encounter card free of charge for that encounter column.
+
+- **Safira's Effect**:  
+  No one can use any encounter card in that encounter column.
+
+---
+
+## Kafaka
+- **Player Effect**:  
+  Engages the loyalist in that column and removes the effect of that boss.
+
+- **Safira's Effect**:  
+  Players cannot use loyalists for this encounter column.
+  
 ---
 **LONG GAMEPLAY GUIDE**
 ---
