@@ -104,7 +104,7 @@ Noted of the sudden disappearance of Safira Crescentis, a venturing Stone Adept,
 > - **Magic:** 🪨 *Stone Magic (Reinforcement)*  
 > - **Traits:** 🛡️ Stoic • 💪 Resilient • 🌄 Awe-Inspiring  
 
-# Background
+## Background
 
 Many things could be said about the Stone City Adepts, but one is certain: they are an honorable and respectful bunch. Surely, they are no ordinary folk. You cannot quite expect to have a leisurely talk with any of them, as they tend to be quite silent, stone-faced, and often peer into a single spot without moving. However, if you require a firm hand to rely on, they are your best bet—especially if they are currently in their “Exodus.”
 
@@ -115,7 +115,7 @@ During Exodus, you can count on some adventure, as they are ready to go forth an
 > - **Magic:** 🌀 *Desert Magic (Negation)*  
 > - **Traits:**  🕶️ Mysterious • 👻 Eerie • 🌪️ Feared  
 
-# Background
+## Background
 
 One simply does not go into the Desert City uninvited. This is what is often said about the submerged city. Truly, the Alia—as the Desert dwellers call their city area—is a place where seldom a traveler ventures freely. The cause for such weariness lies not only in the precarious desert pocket, home to many poisonous insects and quicksand sinks, but even more in the **nullity**, a field of negation magic that permeates the air, earth, and sky around the Charocracy Desert.
 
@@ -126,7 +126,7 @@ Here, the closer one gets to the city’s underground entrance, the harder it be
 > - **Magic:** 🌸 *Forest Magic (Life)*  
 > - **Traits:** 🦋 Lively • 🌿 Symbiotic • 🔄 Ever-Changing  
 
-# Background
+## Background
 
 Experienced adventurers will often advise their younger kin not to judge the “Foresters” based on first impressions. It can often happen that one shares travel with a brooding, silent forest mage, only to find the same person, years later, thoroughly changed in appearance and personality. Due to these vigorous changes in character, friendships with Forest dwellers are intense but seldom last long in the same form or manner.
 
@@ -137,7 +137,7 @@ This permutability is also reflected in the life of the city, where personal rel
 > - **Magic:** ✨ *Conduit to All Magic*  
 > - **Traits:** 🎭 Artistic • 🎻 Sensitive • 🌈 Aesthetic
 
-# Background
+## Background
 
 “You know, I have to bust your Damatian dream here, because not everyone is so jolly about Damatia as you seem to be! You’ve heard about the Kigoi, right? Those pointy-eared nomads with fair skin and elegant faces? Well, if you find one that’s talkative, you’ll hear firsthand how much the ‘freedom-loving’ Damatian Law really is. People disappearing in the night, many of them Kigoi! And then? A couple of months later, a series of newly upgraded Charomons rolls out on the streets. Peculiar, ain’t it? And what of the forbidden experiments in underground laboratories? And the obvious change that comes with the imprint? Don’t you dare speak to me about conspiracy theories! Parts of my family, my own kin, became outright placid after it! Nonsense, you say? Take me for a fool, but you won’t make an imprint out of me, that’s for sure!”  
 — *Jerry the Rogue, Convicted Damatian Criminal*
@@ -147,7 +147,7 @@ This permutability is also reflected in the life of the city, where personal rel
 > - **Role:** 🛡️ *Protector of Damatia*  
 > - **Traits:** 🏛️ Disciplined • 💬 Inspiring • ⚡ Loyal
 
-# Background
+## Background
 
 Damatians see their city-state as the jewel of the continent and accknowledge their common heritage with great pride. For this reason, they do not accept lightly when someone blemishes this commonly shared vision. Consequently, criminals are harshly punished, and even smaller transgressions such as cheating in trade is strongly penalized. Corruption is a social taboo, and physically hurting a fellow Damatian is met with harsh retribution. Damatia takes good care of its citizens, often providing many of the necessary social services such as education medical aid and public safety without any cost to its citizens. Citizens contribute to this common welfare with the “imprint” – the provision of one’s mental state, one’s memories, emotions and character for the creation of Charotek automatons or "Borots" as the common folk calls them.  
 
@@ -155,6 +155,10 @@ Damatians see their city-state as the jewel of the continent and accknowledge th
 
 </div>
 
+---
+## Party Meeting Place: The Royal Hall
+
+The Royal Hall of Damatia hums with ever-constant anticipation as sunlight streams through the mosaic-glass windows, casting vibrant patterns across its polished floor. **Borots** and humans alike stride towards their tasks, immersed within the subtle hum and whirring of the grand clockwork mechanism. The air is thick with the scent of polished metal, expensive perfumes, and beeswax—a fitting aroma for this place of power, where the Kingdom shapes its destiny.
 ---
 
 **SHORT GAMEPLAY GUIDE:**
