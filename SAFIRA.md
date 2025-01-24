@@ -193,14 +193,15 @@ The Royal Hall of Damatia hums with ever-constant anticipation as sunlight strea
 
 ### <span style="font-size: 1em;">9️⃣ **Safira’s Hideout**</span>  
 
-<span style="font-size: 1em;">🃏 **Setup:**</span>  
+<span style="font-size: 1em;">🃏 **Setup:**</span>
+   - 🖋️ Calculate the DC bonus for Safira and your party (Number of won cards  - 5 divided by 2, rounded up).
    - 🔀 *Shuffle her encounters* → 📥 **Place 5 cards/row**, *right to left, bottom up*
    - 📥 **Place Safira's loyalists (won by Safira) above her encounter row.
 
 🎯 **Challenge the Story Columns:** 
    - ➡️EACH player contributes an encounter card (if a player does not have an EC, another player contributes)
    - First player, opens up Safira's card (and a Loyalist card if available)  → Narrates  → ROLLS Safira's Roll, adds Safira's DC Bonus, uses Loyalist effect.
-   - Then, the player calculates and uses all possible DC bonuses (card effects, character abilities, class match) and her loyalist → Rolls  → Compares her DC with Safira's → Narrates the conclusion.
+   - Then, the player → Rolls (then utilizes all available bonuses: card effects, loyalists, abilities)  → Compares her DC with Safira's → Narrates the conclusion.
    - If the player wins, Safira's cards are placed face down. If the player loses, she places her card face down.
    - Next player in line, narrates the 2nd encounter in line.
    - REPEAT until all cards are engaged.
