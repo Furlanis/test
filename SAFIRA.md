@@ -84,7 +84,7 @@ The Council of the Forest Castle was very worried. Their precious silver fox had
 ---
 
 ## Stone Adept Arc
-Noted of the sudden disappearance of Safira Crescentis, a venturing Stone Adept, in his Exodus journey, has joined the prospective adventurers at the royal hall to locate and resolve the mystery of the ArchEngineer's vanishing. Intrigued by the mystery and possible dangers lurking in this task, the Stone Adept stands determined to manifest mettle and resolve the issue with determined haste.
+It was a typical, busy day at the Damatia Street market when, unexpectedly, a group of Borots burst onto the scene. They began throwing fruit, vegetables, and various objects from the stalls. Royal guards quickly arrived and managed to calm the Borots and escort them to their lair. After the incident, everything settled down, and everyone thought it was an isolated occurrence until it happened again. The Royal Court requested the Stone Adept's attention, certain that someone had tampered with the Borot's equipment. As an expert on Borot's behavior, he will be in charge of an investigative party to find a cause and a culprit for such strange occurrences.
 
 
 ---
