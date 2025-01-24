@@ -200,16 +200,25 @@ The Royal Hall of Damatia hums with ever-constant anticipation as sunlight strea
 🎯 **Challenge the Story Columns:** 
    - ➡️EACH player contributes an encounter card (if a player does not have an EC, another player contributes)
    - First player, opens up Safira's card (and a Loyalist card if available)  → Narrates  → ROLLS Safira's Roll, adds Safira's DC Bonus, uses Loyalist effect.
-   - Then, the player calculates and uses all possible DC bonuses (card effects, character abilities, class match) and her loyalist → Rolls  → Narrates the conclusion.
-   - If player wins, Safira's cards are placed face down. If the player loses, she places her card face down.
+   - Then, the player calculates and uses all possible DC bonuses (card effects, character abilities, class match) and her loyalist → Rolls  → Compares her DC with Safira's → Narrates the conclusion.
+   - If the player wins, Safira's cards are placed face down. If the player loses, she places her card face down.
    - Next player in line, narrates the 2nd encounter in line.
    - REPEAT until all cards are engaged.
 
    - 🎉 *To best Safira's intentions and conclude the story in their favor:*
-   - a party of 2 needs to clear two story columns.
-   - a party of 3 needs to clear three story columns.
-   - a party of 4 needs to clear four story columns.
-   - a party of 5 needs to clear all five story columns.
+   - a party of 2 needs to win two story columns.
+   - a party of 3 needs to win three story columns.
+   - a party of 4 needs to win four story columns.
+   - a party of 5 needs to win all five story columns.
+---
+
+## **Story Conclusion**
+
+Once the party has engaged all of the encounters, narrate the adventure's conclusion in free form, depending on their results.  
+
+- **Who managed to gain the upper hand—your party or Safira?**  
+- **How does your story end?**  
+- **What comes next?**  
 
 
 ---
